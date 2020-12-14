@@ -40,9 +40,8 @@ sections:
             style: secondary
       - title: Feature 2
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          This is a test of the ***national broadcasting system***. This is the
+          paragraph for the second feature on the site.
         align: left
         image: images/feature.svg
         image_position: left
